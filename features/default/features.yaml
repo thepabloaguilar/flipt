@@ -1,0 +1,10 @@
+version: "1.4"
+namespace:
+    key: default
+    name: Default
+flags:
+    - key: testing
+      name: testing
+      type: BOOLEAN_FLAG_TYPE
+      description: Xablau
+      enabled: false
